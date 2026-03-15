@@ -1,0 +1,8 @@
+# AstraWatch — Raspberry Pi requirements
+# Install: pip3 install -r requirements_rpi.txt
+
+requests>=2.31.0
+pyserial>=3.5
+adafruit-circuitpython-dht>=3.7.0
+adafruit-blinka>=8.0.0
+RPi.GPIO>=0.7.0
